@@ -1,0 +1,15 @@
+# Datasets y modelos (no se suben)
+data/
+*.pth
+*.pt
+
+# Registros de MLflow
+mlruns/
+mlflow.db
+
+# Entornos y archivos temporales
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store
